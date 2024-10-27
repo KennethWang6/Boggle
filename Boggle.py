@@ -1,1 +1,1 @@
-print('bozo')
+print('Boggle')
